@@ -1,0 +1,9 @@
+{
+  "name": "Sovereign School OS",
+  "description": "A privacy-first, FERPA/IDEA-compliant K-12 operating system designed to restore learning minutes to the classroom.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
