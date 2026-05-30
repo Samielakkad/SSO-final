@@ -4,6 +4,8 @@
 
 ![status](https://img.shields.io/badge/status-shipped-2ea44f) ![stack](https://img.shields.io/badge/stack-React%2019%20%2B%20TS%20%2B%20Vite-blue) ![data](https://img.shields.io/badge/data-localStorage--only-orange) ![winner](https://img.shields.io/badge/winner-Tsinghua%20AIID%202025-gold) ![partner](https://img.shields.io/badge/partner-NetDragon-purple)
 
+**🏆 Winner — [Tsinghua · 清华大学](https://www.sigs.tsinghua.edu.cn/) AIID Yearly Competition, [NetDragon · 网龙](https://www.netdragon.com/) partner track.**
+
 ---
 
 ## The product thesis
@@ -114,8 +116,8 @@ interactiveParser, parser, pdfParser, video.
 
 ## Repo siblings
 
-- [sovereign-school-os](https://github.com/SAMI-ELAKKAD/sovereign-school-os) - polished, browseable, file-by-file source view of the same product (no `.rar`, no `credentials.md`)
-- [jak-ma-eval-suite](https://github.com/selakkad2003/jak-ma-eval-suite) - the verifier-gated retrieval pattern used here, ported to a different domain (Moroccan service marketplace)
+- [sovereign-school-os](https://github.com/Samielakkad/sovereign-school-os) - polished, browseable, file-by-file source view of the same product (no `.rar`, no `credentials.md`)
+- [jak-ma-eval-suite](https://github.com/Samielakkad/jak-ma-eval-suite) - the verifier-gated retrieval pattern used here, ported to a different domain (Moroccan service marketplace)
 
 ---
 
